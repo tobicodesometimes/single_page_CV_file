@@ -4,4 +4,4 @@ This project showcases my CV as a single HTML page.
 
 ## View the CV
 
-You can view it live here: [My CV Page](https://github.com/tobicodesometimes/single_page_CV_file/blob/main/index.html)
+You can view it live here: [My CV Page] https://tobicodesometimes.github.io/single_page_CV_file/
