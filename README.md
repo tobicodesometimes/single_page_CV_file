@@ -1,7 +1,7 @@
-# My Single-Page CV
+# Single-Page HTML CV Project
 
-This project showcases my CV as a single HTML page.
+This is a brief description of my project.
 
-## View the CV
+## Project URL
 
-You can view it live here: [My CV Page] (https://tobicodesometimes.github.io/single_page_CV_file/)
+You can view the project live here: [My Project Page](https://tobicodesometimes.github.io/single_page_CV_file)
